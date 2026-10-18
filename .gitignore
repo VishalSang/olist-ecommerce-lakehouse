@@ -1,0 +1,15 @@
+# Local source data and credentials
+data/
+raw_data/
+*.csv
+*.zip
+.env
+.env.*
+!.env.example
+.databrickscfg
+.databricks/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
